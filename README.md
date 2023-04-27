@@ -14,7 +14,7 @@ The following Python libraries are required to run this project:
 ### **Usage**
 * Clone the repository
 * Install the required libraries
-* Run the rock_or_mine.py file
+* Run the [rock_vs_mine.py](https://github.com/sachin-dtu/Rock-vs-Mine-Prediction/blob/33921fca9d43cef02c8aad8a3cb36775a886748c/Rock_vs_Mine_Prediction.ipynb) file
 You can change the input data in the input_data variable in the rock_or_mine.py file to make predictions for different instances.
 
 ### **Results**
