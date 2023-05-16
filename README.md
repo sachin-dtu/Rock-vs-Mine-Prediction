@@ -1,6 +1,7 @@
 
 # **Rock or Mine Prediction Using Logistic Regression**
 This is a simple machine learning project to predict whether a sonar object is a rock or a mine using logistic regression.
+[Rock vs mine](https://github.com/sachin-dtu/Rock-vs-Mine-Prediction/blob/main/Rock%20vs%20mine.jpg)
 
 ### **Dataset**
 The dataset used in this project contains 208 instances with 60 features each. The label for each instance is either 'R' (rock) or 'M' (mine).
